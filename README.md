@@ -1,2 +1,1 @@
-# 90DaysOfDevOps
-My 90 Days Of DevOps challenge where i share different topic of DevOps
+My DevOps journey when i share my Notes and other things related to DevOps
